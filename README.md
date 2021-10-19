@@ -1,26 +1,33 @@
 [comment]: <> (Ideas to expand this README in the future: https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
-<h1 align="center"> Hi :wave: welcome to my Github profile </h1>
+<h1 align="center"> Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Welcome to my Github profile </h1>
 
 <h2 align="left"> About me </h2>
 
 <p>
   Hi! I'm Marc Rovira,a Ph.D. student at KTH. I'm currently exploring the intersection of fluid mechanics and chemistry for removing airborne pollution and achieving clean air. <br> <br>
-  Take a look at one of my simulations:
+  Take a look at one of my simulations: <br> <br>
 </p>
 
-<img align="center" src="img/UxUj_575.gif" alt="Turbulence in a jet in counterflow"  width="500px" />
+<img align="center" src="./jet.gif" alt="Turbulence in a jet in counterflow"  width="400px" />
 
-<h2 align="left">Short CV</h2>
+<h2 align="left"> Coding </h2>
 
-<ol>
-  <li>PhD in Mechanical Engineering (<a href="http://www.kth.se">KTH</a>, 2018 - Present)</li>
-  <li>Master Thesis in Computational Fluid Dynamics (<a href="http://www.kth.se">KTH</a>, 2017 - 2018)</li>
-  <li>M.Sc. in Aeronautic Engineering (<a href="http://www.uc3m.es">UC3M</a>, 2015 - 2017)</li>
-  <li>B.Sc. in Aerospace Engineering (<a href="http://www.upv.es">UPV</a>, 2011 - 2015)</li>
-</ol>
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev) <br> <br>
 
-<h2 align="left">Publications</h2>
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
+<a href="https://github.com/nschloe">
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=marrov&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=22&theme=dark" /> <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrov&hide=cmake,fortran,cuda&hide_title=true&hide_border=false&layout=compact&langs_count=6&theme=dark" />
+</a>
+
+<h2 align="left">Research publications</h2>
 
 <p>
   You can also check out all my research publications on my <a href="https://scholar.google.com/citations?user=wEZyfUcAAAAJ&hl=es&oi=sra">Google Scholar profile.</a><br>
@@ -34,12 +41,6 @@
   <li><a href="https://doi.org/10.1007/978-3-030-42822-8_10">Rovira, M., Engvall, K., & Duwig, C. (2019, June). Large Eddy Simulation of Precession of a Non-swirling Turbulent Jet in a Counterflow. In ERCOFTAC Workshop Direct and Large Eddy Simulation (pp. 77-83). Springer, Cham.</a></li>
   <li><a href="http://hdl.handle.net/10251/57242">Rovira, M. (2015). Advanced CFD modeling of a diesel-like spray in reacting condition (B.Sc. Thesis, Universitat Politècnica de València).</a></li>
 </ul>
-
-<h2 align="left"> Coding </h2>
-
-<a href="https://github.com/nschloe">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=marrov&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=22&theme=dark" /> <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrov&hide=jupyter%20notebook,html,cmake,fortran,c%2B%2B,cuda&hide_title=true&hide_border=false&layout=compact&langs_count=6&theme=dark" />
-</a>
 
 <h2 align="left"> Contact me </h2>
 
