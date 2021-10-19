@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi :wave: welcome to my Github profile </h1>
 
-<h2 align="right"> About me </h2>
+<h2 align="left"> About me </h2>
 
 <p>
   Hi! I'm Marc Rovira,a Ph.D. student at KTH. I'm currently exploring the intersection of fluid mechanics and chemistry for removing airborne pollution and achieving clean air. <br> <br>
@@ -11,7 +11,7 @@
 
 <img align="center" src="img/UxUj_575.gif" alt="Turbulence in a jet in counterflow"  width="500px" />
 
-<h2 align="right">Short CV</h2>
+<h2 align="left">Short CV</h2>
 
 <ol>
   <li>PhD in Mechanical Engineering (<a href="http://www.kth.se">KTH</a>, 2018 - Present)</li>
@@ -20,7 +20,7 @@
   <li>B.Sc. in Aerospace Engineering (<a href="http://www.upv.es">UPV</a>, 2011 - 2015)</li>
 </ol>
 
-<h2 align="right">Publications</h2>
+<h2 align="left">Publications</h2>
 
 <p>
   You can also check out all my research publications on my <a href="https://scholar.google.com/citations?user=wEZyfUcAAAAJ&hl=es&oi=sra">Google Scholar profile.</a><br>
@@ -35,13 +35,13 @@
   <li><a href="http://hdl.handle.net/10251/57242">Rovira, M. (2015). Advanced CFD modeling of a diesel-like spray in reacting condition (B.Sc. Thesis, Universitat Politècnica de València).</a></li>
 </ul>
 
-<h2 align="center"> Coding </h2>
+<h2 align="left"> Coding </h2>
 
 <a href="https://github.com/nschloe">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=marrov&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=22&theme=dark" /> <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrov&hide=jupyter%20notebook,html,cmake,fortran&hide_title=true&hide_border=false&layout=compact&langs_count=6&theme=dark" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=marrov&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=22&theme=dark" /> <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrov&hide=jupyter%20notebook,html,cmake,fortran,c%2B%2B,cuda&hide_title=true&hide_border=false&layout=compact&langs_count=6&theme=dark" />
 </a>
 
-<h2 align="right"> Contact me </h2>
+<h2 align="left"> Contact me </h2>
 
 <p>
   <a href="mailto:marcrovirasacie@gmail.com">
