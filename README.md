@@ -17,7 +17,7 @@
 
 [![Years Badge](https://badges.pufler.dev/years/marrov)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/marrov)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/marrov)](https://badges.pufler.dev) <br> <br>
+[![Repos Badge](https://badges.pufler.dev/repos/marrov)](https://badges.pufler.dev) <br>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -35,11 +35,11 @@
 </p>
 
 <ul>
-  <li><a href="https://doi.org/10.1016/j.fuel.2021.121238">Rovira, M., Engvall, K., & Duwig, C. (2021). Detailed numerical simulations of low-temperature oxidation of NOx by ozone. Fuel, 303, 121238.</a></li>
-  <li><a href="https://doi.org/10.1016/j.ijheatmasstransfer.2021.121415">Attarzadeh, R., Rovira, M., & Duwig, C. (2021). Design analysis of the” Schwartz D” based heat exchanger: A numerical study. International Journal of Heat and Mass Transfer, 177, 121415.</a></li>
-  <li><a href="https://doi.org/10.1103/PhysRevFluids.6.014701">Rovira, M., Engvall, K., & Duwig, C. (2021). Proper orthogonal decomposition analysis of the large-scale dynamics of a round turbulent jet in counterflow. Physical Review Fluids, 6(1), 014701.</a></li>
-  <li><a href="https://doi.org/10.1063/5.0003239">Rovira, M., Engvall, K., & Duwig, C. (2020). Review and numerical investigation of the mean flow features of a round turbulent jet in counterflow. Physics of Fluids, 32(4), 045102.</a></li>
-  <li><a href="https://doi.org/10.1007/978-3-030-42822-8_10">Rovira, M., Engvall, K., & Duwig, C. (2019, June). Large Eddy Simulation of Precession of a Non-swirling Turbulent Jet in a Counterflow. In ERCOFTAC Workshop Direct and Large Eddy Simulation (pp. 77-83). Springer, Cham.</a></li>
+  <li><a href="https://doi.org/10.1016/j.fuel.2021.121238">Rovira, Engvall, and Duwig (2021). Detailed numerical simulations of low-temperature oxidation of NOx by ozone. Fuel.</a></li>
+  <li><a href="https://doi.org/10.1016/j.ijheatmasstransfer.2021.121415">Attarzadeh, Rovira, and Duwig. (2021). Design analysis of the” Schwartz D” based heat exchanger: A numerical study. Int. J. Heat Mass Transf.</a></li>
+  <li><a href="https://doi.org/10.1103/PhysRevFluids.6.014701">Rovira, Engvall, and Duwig. (2021). Proper orthogonal decomposition analysis of the large-scale dynamics of a round turbulent jet in counterflow. Phys. Rev. Fluid.</a></li>
+  <li><a href="https://doi.org/10.1063/5.0003239">Rovira, Engvall, and Duwig. (2020). Review and numerical investigation of the mean flow features of a round turbulent jet in counterflow. Phys. Fluids.</a></li>
+  <li><a href="https://doi.org/10.1007/978-3-030-42822-8_10">Rovira, Engvall, and Duwig. (2019). Large Eddy Simulation of Precession of a Non-swirling Turbulent Jet in a Counterflow. DLES Conference. Springer.</a></li>
 </ul>
 
 <h2 align="left"> Contact me </h2>
