@@ -5,7 +5,7 @@
 <h2 align="left"> About me </h2>
 
 <a href="https://doi.org/10.1103/PhysRevFluids.6.014701">
-  <img src="./jet.gif" align="right" width="40%"/>
+  <img src="./jet.gif" align="right" width="35%"/>
 </a>
 
 <p>
@@ -16,12 +16,14 @@
 <h2 align="left"> Coding </h2>
 
 <h3 align="left"> Programming languages </h3>
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) <br>
 
 <h3 align="left"> Github stats </h3>
+
 [![Years Badge](https://badges.pufler.dev/years/marrov)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/marrov)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/marrov)](https://badges.pufler.dev) <br>
