@@ -10,7 +10,7 @@
 
 <p>
   Hi! I'm Marc, a Ph.D. student at KTH. I'm currently exploring the intersection between fluid mechanics and chemistry for removing airborne pollution and achieving clean air. Here on my Github profile you will find all my coding projects. <br> <br>
-  Take a look at one of my simulations: <br> <br>
+  Take a look at one of my simulations: <br> <br> <br>
 </p>
 
 <h2 align="left"> Coding </h2>
