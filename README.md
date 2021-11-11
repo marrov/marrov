@@ -9,7 +9,7 @@
 </a>
 
 <p>
-  Hi! I'm Marc, a Ph.D. student at KTH. I'm currently exploring the intersection between fluid mechanics and chemistry for removing airborne pollution and achieving clean air. Here on my Github profile you will find all my coding projects. <br> <br>
+  Hi! I'm Marc, a Ph.D. student at KTH in Stckholm, Sweden. I'm currently exploring the intersection between fluid mechanics and chemistry for reducing airborne pollution and achieving clean air. You can check out my research publications on my <a href="https://scholar.google.com/citations?user=wEZyfUcAAAAJ&hl=es&oi=sra">Google Scholar profile. Here on my Github profile you will find all my coding projects. <br> <br>
   Take a look at one of my simulations: <br> <br> <br>
 </p>
 
@@ -29,27 +29,13 @@
 [![Repos Badge](https://badges.pufler.dev/repos/marrov)](https://badges.pufler.dev) <br>
 
 <a href="https://github.com/marrov">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=marrov&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=22&theme=dark" /> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrov&hide=cmake,fortran,cuda&hide_title=true&hide_border=false&layout=compact&langs_count=6&theme=dark" />
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=marrov&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=22&theme=dark" /> <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrov&hide=cmake,fortran,cuda&hide_title=true&hide_border=false&layout=compact&langs_count=6&theme=dark" />
 </a>
-
-<h2 align="left">Research publications</h2>
-
-<p>
-  You can also check out all my research publications on my <a href="https://scholar.google.com/citations?user=wEZyfUcAAAAJ&hl=es&oi=sra">Google Scholar profile.</a><br>
-</p>
-
-<ul>
-  <li><a href="https://doi.org/10.1016/j.fuel.2021.121238">Rovira, Engvall, and Duwig (2021). Detailed numerical simulations of low-temperature oxidation of NOx by ozone. Fuel.</a></li>
-  <li><a href="https://doi.org/10.1016/j.ijheatmasstransfer.2021.121415">Attarzadeh, Rovira, and Duwig. (2021). Design analysis of the” Schwartz D” based heat exchanger: A numerical study. Int. J. Heat Mass Transf.</a></li>
-  <li><a href="https://doi.org/10.1103/PhysRevFluids.6.014701">Rovira, Engvall, and Duwig. (2021). Proper orthogonal decomposition analysis of the large-scale dynamics of a round turbulent jet in counterflow. Phys. Rev. Fluid.</a></li>
-  <li><a href="https://doi.org/10.1063/5.0003239">Rovira, Engvall, and Duwig. (2020). Review and numerical investigation of the mean flow features of a round turbulent jet in counterflow. Phys. Fluids.</a></li>
-  <li><a href="https://doi.org/10.1007/978-3-030-42822-8_10">Rovira, Engvall, and Duwig. (2019). Large Eddy Simulation of Precession of a Non-swirling Turbulent Jet in a Counterflow. DLES Conference. Springer.</a></li>
-</ul>
 
 <h2 align="left"> Contact me </h2>
 
 <p>
-  <a href="mailto:marcrovirasacie@gmail.com">
+  <a href="mailto:work.7k9ri@slmail.me">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </p>
