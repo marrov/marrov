@@ -5,7 +5,7 @@
 <h2 align="left"> About me </h2>
 
 <a href="https://doi.org/10.1103/PhysRevFluids.6.014701">
-  <img src="./jet.gif" align="right" width="35%"/>
+  <img src="./jet.gif" align="right" width="40%"/>
 </a>
 
 <p>
