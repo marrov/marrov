@@ -24,6 +24,7 @@
 <h3 align="left"> Github stats </h3>
 
 [![Years Badge](https://badges.pufler.dev/years/marrov)](https://badges.pufler.dev)
+[![Yearly Commits Badge](https://badges.pufler.dev/commits/yearly/marrov)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/marrov)](https://badges.pufler.dev) <br>
 
 <a href="https://github.com/marrov">
