@@ -4,13 +4,8 @@
 
 <h2 align="left"> About me </h2>
 
-<a href="https://doi.org/10.1103/PhysRevFluids.6.014701">
-  <img src="./jet.gif" align="right" width="40%"/>
-</a>
-
 <p>
   Hi! I'm Marc, a Ph.D. student at KTH in Stockholm, Sweden. I'm currently exploring the intersection between fluid mechanics and chemistry to reduce air pollution and achievw clean air. You can check out my research publications on my <a href="https://scholar.google.com/citations?user=wEZyfUcAAAAJ&hl=es&oi=sra"> Google Scholar profile</a>. Here on my Github profile you will find all my coding projects. <br> <br>
-  Take a look at one of my simulations: <br> <br> <br>
 </p>
 
 <h2 align="left"> Coding </h2>
