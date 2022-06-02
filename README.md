@@ -1,6 +1,6 @@
 [comment]: <> (Ideas to expand this README in the future: https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
-<h1 align="center"> Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="1px"> Welcome to my Github profile </h1>
+<h1 align="center"> Hi! Welcome to my Github profile </h1>
 
 <h2 align="left"> About me </h2>
 
