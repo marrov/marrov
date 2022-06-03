@@ -2,8 +2,6 @@
 
 <h1 align="center"> Hi! Welcome to my Github profile </h1>
 
-![skyline](https://user-images.githubusercontent.com/54272586/171830034-051c23d7-f0c7-454c-968a-c09786587b54.png)
-
 <h2 align="left"> About me </h2>
 
 <p>
