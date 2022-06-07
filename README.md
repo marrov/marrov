@@ -5,7 +5,7 @@
 <h2 align="left"> About me </h2>
 
 <p>
-  Hi! I'm Marc, a Ph.D. student at KTH in Stockholm, Sweden. I'm currently exploring the intersection between fluid mechanics and chemistry to reduce air pollution and achievw clean air. You can check out my research publications on my <a href="https://scholar.google.com/citations?user=wEZyfUcAAAAJ&hl=es&oi=sra"> Google Scholar profile</a>. Here on my Github profile you will find all my coding projects. <br> <br>
+  Hi! I'm Marc, Ph.D. in Engineering Mechanics from KTH in Stockholm (Sweden) and M.Sc. Aeronautical Engineer. I'm passionate about data-driven complex problem-solving through software and technology. You can check out my research publications on my <a href="https://scholar.google.com/citations?user=wEZyfUcAAAAJ&hl=es&oi=sra"> Google Scholar profile</a> and here on my Github profile you will find all my coding projects. <br> <br>
 </p>
 
 <h2 align="left"> Coding </h2>
