@@ -18,6 +18,10 @@
 
 <h3 align="left"> Github stats </h3>
 
+[![Years Badge](https://badges.strrl.dev/years/marrov)](https://badges.strrl.dev)
+[![Contributions Badge](https://badges.strrl.dev/contributions/yearly/marrov)](https://badges.strrl.dev)
+[![Public Repos Badge](https://badges.strrl.dev/repos/marrov)](https://badges.strrl.dev) <br>
+
 <a href="https://github.com/marrov">
   <img height="139px" src="https://github-readme-stats.vercel.app/api?username=marrov&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=22&theme=dark" /> <img height="139px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrov&hide=cmake,fortran,cuda&hide_title=true&hide_border=false&layout=compact&langs_count=6&theme=dark" />
 </a>
